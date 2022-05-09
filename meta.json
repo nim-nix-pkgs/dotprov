@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/minefuto/dotprov",
   "refs": [
-    "fatal: unable to access 'https://github.com/minefuto/dotprov/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/minefuto/dotprov/': SSL connection timeout",
     ""
   ],
   "heads": []
